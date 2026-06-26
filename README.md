@@ -18,7 +18,7 @@ Open your local `lock_workstation.py` file and update the configuration variable
 BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 
 # Line 13: Replace with your specific numerical Telegram Chat ID (Do not use quotes)
-ALLOWED_CHAT_ID = 6394780899
+ALLOWED_CHAT_ID = ""
 
 # Line 17: Update to point to the exact absolute path where this file resides
 LOCK_SCRIPT_PATH = r"C:\Users\<Your-Username>\PycharmProjects\telegram\lock_workstation.py"
